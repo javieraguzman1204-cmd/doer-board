@@ -1,0 +1,17 @@
+# Entornos y caché
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.DS_Store
+__MACOSX/
+
+# Configuración privada y datos generados por los usuarios
+.env
+.env.*
+instance/
+*.db
+*.sqlite
+*.sqlite3
+static/uploads/
